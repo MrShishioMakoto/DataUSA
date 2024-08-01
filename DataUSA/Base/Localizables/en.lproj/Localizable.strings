@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  DataUSA
+
+  Created by GoncaloSAlmeida on 31/07/2024.
+  
+*/
+
+// MARK: - Navigation
+"navigation.title" = "Population (2022)";
+
+// MARK: - Sections
+"section.nation" = "Nation";
+"section.states" = "States";
+
+// MARK: - Network Error
+"network.error.failed.to.decode" = "Failed to decode";
+"network.error.invalid.status.code" = "Request failed (Status Code)";
+"network.error.invalid.url" = "Invalid URL";
+"network.error.invalid.generic" = "ERROR";
+
+//MARK: - Alert
+"alert.button" = "Retry: Fetch Info";
